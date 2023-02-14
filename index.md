@@ -47,7 +47,7 @@ Azure Pipeline `·` Azure Cloud `·`
 ### Basic
 Akka.NET · Blazor · REST · Agile · Scrum · Python · TypeScript · Angular
 
-## Soft
+## Soft skills
 
 Team player · independent · flexible · eager to learn 
 
