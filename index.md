@@ -1,6 +1,7 @@
 ---
 layout: cv
 title: Gordon Hilgers's CV
+img: https://media.licdn.com/dms/image/C4E03AQF1_4xvN0RQEw/profile-displayphoto-shrink_200_200/0/1601286791799?e=1681948800&v=beta&t=SMlx5zAXFUiaISebXe0QIuG_ktsH2zKu0cqwanHsozs
 ---
 # Gordon Hilgers
 Developer, Hobby chef, Motor biker.
