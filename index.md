@@ -81,6 +81,13 @@ To complete my Bachelor's degree in Electrical Engineering I developed a test sy
 
 ## Other Experiences
 
+### Bar Staff
+*Koperen Kat* · Delft
+`2017 - 2019`
+
+Worked as general bar staff, recommending beers and doing tours around the small brewery explaining about the brewing process and the history of the brewer.
+
+
 ### Courses
 
 __BHV__ 
@@ -88,12 +95,6 @@ __BHV__
 
 __Effective Influencing__ (Effectief Beinvloeden) 
 `2022`
-
-### Bar Staff
-*Koperen Kat* · Delft
-`2017 - 2019`
-
-Worked as general bar staff, recommending beers and doing tours around the small brewery explaining about the brewing process and the history of the brewer.
 
 <!-- ### Footer
 
