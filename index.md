@@ -9,7 +9,7 @@ Developer, Hobby chef, Motorbiker.
 <a href="isaac@applesdofall.org">gordonhilgers93@hotmail.com</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
-!(profile pic)[https://media.licdn.com/dms/image/C4E03AQF1_4xvN0RQEw/profile-displayphoto-shrink_800_800/0/1601286791799?e=1681948800&v=beta&t=poHmjwE5XM_xJriZ_8dq6cWdLCqk3_N9UYCz_lb3HaE]
+![profile pic](https://media.licdn.com/dms/image/C4E03AQF1_4xvN0RQEw/profile-displayphoto-shrink_800_800/0/1601286791799?e=1681948800&v=beta&t=poHmjwE5XM_xJriZ_8dq6cWdLCqk3_N9UYCz_lb3HaE)
 
 
 ## Currently
@@ -43,7 +43,7 @@ __Trinity College, Cambridge__
 
 
 
-## Awards
+## Skills
 
 `2012`
 President, *Royal Society*, London, UK
@@ -52,9 +52,6 @@ Associate, *French Academy of Science*, Paris, France
 
 
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Journals
 
