@@ -66,7 +66,7 @@ Together with a small team I'm working to make the data that we have in a greenh
 Adding new features to the climate control application and development of an integration testing tool using Blazor and Akka.NET 
 
 ### R&D Engineer
-`march 2016 - aug 2020 `
+`march 2016 - aug 2020`
 *Obervator Instruments* · Ridderkerk
 
 Together with a small team we created meteorological products targeting the industrial/offshore market. The project I contributed to that I'm most proud of a .NET Core backend application with a Angular frontend to monitor weather for helideck platforms.
@@ -75,6 +75,7 @@ Together with a small team we created meteorological products targeting the indu
 `sept 2015 - jan 2016`
 ### Graduate Internship R&D Engineer  
 *Obserator Instruments* · Ridderkerk
+
 To complete my Bachelor's degree in Electrical Engineering I developed a test system to functionally test the MeteoLink product range of Observator. The test system consisted of a custom PCB a Embedded C application and a Windows application, created with Qt, to control it.
 
 
