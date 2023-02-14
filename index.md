@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Gordon Hilgers's CV
 ---
-# Isaac Newton
+# Gordon Hilgers
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
