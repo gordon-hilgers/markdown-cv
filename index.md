@@ -9,8 +9,9 @@ Generaal Spoorlaan 487F016
 2284DA, Rijswijk
 The Netherlands
 
+<!-- 
 ![profile pic](https://media.licdn.com/dms/image/C4E03AQF1_4xvN0RQEw/profile-displayphoto-shrink_800_800/0/1601286791799?e=1681948800&v=beta&t=poHmjwE5XM_xJriZ_8dq6cWdLCqk3_N9UYCz_lb3HaE)
-
+-->
 <a href="gordonhilgers93@hotmail.com">gordonhilgers93@hotmail.com</a> · +31 6 50 41 76 89
 
 
