@@ -16,30 +16,28 @@ The Netherlands
 
 ## Currently
 
-Techlead and developer at Priva working on making data more available and insightfull through a web API. 
+Techlead and developer at Priva working on making data more available and insightful through the Azure Cloud platform. 
 
-### About me
+## About me
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+From a young age I've been interested in technology, discovering new things and how they work, so doing a bachelor in Electrical Engineering was an easy choice. During my Bachelor I discovered that programming was more my thing than hardware development, so I gradually moved towards programming and higher programming languages, like C# which I work most often with.
+Besides my work I love food, friends and cooking, preferably all together. With these things I have the same curiosity, I want to know what makes food taste great, how to prepare it and discovering new dishes and flavours. To keep fit (a bit) I like to go bouldering with my girlfriend and other friends and Thai-boxing to blow off some steam. 
+
+
+### Interests
+Lijstje met interesses of niet?
 
 
 ## Education
 
-`1654-1660`
-__TODO.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-- Sizar
-
+`2010 - 2016`
+__Hogeschool Rotterdam__ 
+Bachelor of Applied Science (B.A.Sc.) Electrical and Electronics Engineering
 
 
 ## Skills
-TODO
-`2012`
-President, *Royal Society*, London, UK
 
-Associate, *French Academy of Science*, Paris, France
+Lijstje met professionele skills/ techstack waar ik mee heb gewerkt.
 
 
 ## Experience
@@ -49,7 +47,7 @@ Associate, *French Academy of Science*, Paris, France
 
 __Developer__, *Priva* - De Lier
 
-Together with a small team I'm working to make the data that we have in a greenhouse more available and insightfull through the Azure Cloud pllatform.
+Together with a small team I'm working to make the data that we have in a greenhouse more available and insightful through the Azure Cloud platform.
 
 `march 2016 - aug 2020 `
 __Research and Development Engineer__, *Obervator Instruments* - Ridderkerk
@@ -58,7 +56,9 @@ Together with a team we created meteorological products targeting the industrial
 
 `sept 2015 - jan 2016`
 ### __Graduate Internship Research & Development Graduate__ · *Obserator Instruments* - Ridderkerk
-To complete my Bachelor's degree in Electrical Engineering I developed a test system to functionaly test the MeteoLink product range of Observator. The test system constisted of a custom PCB a Embedded C application and a Windows application, created with Qt, to control it.
+To complete my Bachelor's degree in Electrical Engineering I developed a test system to functionally test the MeteoLink product range of Observator. The test system consisted of a custom PCB a Embedded C application and a Windows application, created with Qt, to control it.
+
+
 <!-- ### Footer
 
 Last updated: May 2013 -->
