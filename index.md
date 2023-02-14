@@ -39,7 +39,30 @@ havo natuur & techniek
 
 ## Skills
 
+^*^ Good experience
+^+^ Some experience
+^-^ interested/little experience
+
+C#^*^ 
+.NET^*^
+Azure Cloud
+Blazor^+^
+Scrum
+Agile
+C
+AKKA.NET
+REST
+TypeScript
+Angular
+Python
+
+## Soft
+
+Team player, independent, flexible, eager to learn 
+
+
 ### Tech 
+
 Lijstje met professionele skills/ techstack waar ik mee heb gewerkt.
 
 <!--
@@ -48,21 +71,28 @@ Vergeet niet je soft skills! bv. team player, independent, hard-working, flexibl
 -->
 ## Experience
 
-### Header level 3
-`aug 2020 - Present`
-
-__Developer__, *Priva* - De Lier
+### Tech Lead
+`jan 2022 - Present`
+*Priva* · De Lier
 
 Together with a small team I'm working to make the data that we have in a greenhouse more available and insightful through the Azure Cloud platform.
 
-`march 2016 - aug 2020 `
-__Research and Development Engineer__, *Obervator Instruments* - Ridderkerk
+### Developer
+`aug 2020 - jan 2022`
+*Priva* · De Lier
 
-Together with a team we created meteorological products targeting the industrial/offshore market. The project I contributed to that I'm most proud of a .NET Core backend application with a Angular frontend to monitor weather for helideck platforms.
+Some info about job
+
+### R&D Engineer
+`march 2016 - aug 2020 `
+*Obervator Instruments* · Ridderkerk
+
+Together with a small team we created meteorological products targeting the industrial/offshore market. The project I contributed to that I'm most proud of a .NET Core backend application with a Angular frontend to monitor weather for helideck platforms.
 
 
 `sept 2015 - jan 2016`
-### __Graduate Internship Research & Development Graduate__ · *Obserator Instruments* - Ridderkerk
+### Graduate Internship R&D Engineer  
+*Obserator Instruments* · Ridderkerk
 To complete my Bachelor's degree in Electrical Engineering I developed a test system to functionally test the MeteoLink product range of Observator. The test system consisted of a custom PCB a Embedded C application and a Windows application, created with Qt, to control it.
 
 <!--
