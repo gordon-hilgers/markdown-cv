@@ -28,9 +28,12 @@ Besides my work I love cooking, spending time with friends, riding my motor bike
 ## Education
 
 `2010 - 2016`
-__Hogeschool Rotterdam__ 
+__Hogeschool Rotterdam__ · Rotterdam
 Bachelor of Applied Science (B.A.Sc.) Electrical and Electronics Engineering
 
+`2004 - 2010`
+__GSG Leo Vroman__ · Gouda
+havo natuur & techniek 
 
 ## Skills
 
