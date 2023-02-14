@@ -119,12 +119,18 @@ h1,h2,h3,h4 {
 	width: 80%;
 }
 
+img {
+	position: relative;
+	width: 20%;
+}
+
 h1 {
 	text-align: left;
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
 	left: 25%;
+	margin-top: -5em;
 }
 
 h1+p {
