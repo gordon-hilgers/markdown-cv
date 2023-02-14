@@ -43,14 +43,14 @@ havo natuur & techniek
 C# | .NET | C | 
 
 ### Intermediate
-Azure Pipeline · Azure Cloud · AKKA.NET · Blazor · REST · Agile · Scrum · Python
+Azure Pipeline `·` Azure Cloud `·` AKKA.NET · Blazor · REST · Agile · Scrum · Python
 
-## Little
+### Little
 TypeScript · Angular
 
 ## Soft
 
-Team player, independent, flexible, eager to learn 
+Team player · independent · flexible · eager to learn 
 
 ## Experience
 
@@ -77,6 +77,10 @@ Together with a small team we created meteorological products targeting the indu
 ### Graduate Internship R&D Engineer  
 *Obserator Instruments* · Ridderkerk
 To complete my Bachelor's degree in Electrical Engineering I developed a test system to functionally test the MeteoLink product range of Observator. The test system consisted of a custom PCB a Embedded C application and a Windows application, created with Qt, to control it.
+
+
+## Other Experiences
+
 
 <!--
 Ik zou ergens nog ruimte maken om te noemen dat je verder ook bv. bij koperen kat hebt gewerkt & commissiewerk hebt gedaan. 
