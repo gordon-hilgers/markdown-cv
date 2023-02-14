@@ -123,6 +123,7 @@ img {
 	position: relative;
 	width: 20%;
 	margin: 1em;
+	margin-top: 0em;
 }
 
 h1 {
@@ -131,7 +132,7 @@ h1 {
 	line-height: 1em;
 	position: relative;
 	left: 25%;
-	margin-top: -3.5em;
+	margin-top: -3.9em;
 }
 
 h1+p {
