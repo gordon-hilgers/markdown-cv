@@ -9,9 +9,9 @@ Generaal Spoorlaan 487F016
 2284DA, Rijswijk
 The Netherlands
 
-<!-- 
-![profile pic](https://media.licdn.com/dms/image/C4E03AQF1_4xvN0RQEw/profile-displayphoto-shrink_800_800/0/1601286791799?e=1681948800&v=beta&t=poHmjwE5XM_xJriZ_8dq6cWdLCqk3_N9UYCz_lb3HaE)
--->
+###
+![profile pic](https://media.licdn.com/dms/image/C4E03AQF1_4xvN0RQEw/profile-displayphoto-shrink_200_200/0/1601286791799?e=1681948800&v=beta&t=SMlx5zAXFUiaISebXe0QIuG_ktsH2zKu0cqwanHsozs)
+
 <a href="gordonhilgers93@hotmail.com">gordonhilgers93@hotmail.com</a> · +31 6 50 41 76 89
 
 
@@ -40,13 +40,13 @@ havo natuur & techniek
 ## Skills
 
 ### Advanced
-C# | .NET | C | 
+C# · .NET · C  
 
 ### Intermediate
 Azure Pipeline `·` Azure Cloud `·` 
 
 ### Basic
-AKKA.NET · Blazor · REST · Agile · Scrum · Python · TypeScript · Angular
+Akka.NET · Blazor · REST · Agile · Scrum · Python · TypeScript · Angular
 
 ## Soft
 
@@ -63,8 +63,8 @@ Together with a small team I'm working to make the data that we have in a greenh
 ### Developer
 `aug 2020 - jan 2022`
 *Priva* · De Lier
-
-Some info about job
+ 
+Adding new features to the climate control application and development of an integration testing tool using Blazor and Akka.NET 
 
 ### R&D Engineer
 `march 2016 - aug 2020 `
@@ -79,17 +79,22 @@ Together with a small team we created meteorological products targeting the indu
 To complete my Bachelor's degree in Electrical Engineering I developed a test system to functionally test the MeteoLink product range of Observator. The test system consisted of a custom PCB a Embedded C application and a Windows application, created with Qt, to control it.
 
 
-## Courses
-*BHV* 
+## Other Experiences
+
+### Courses
+
+__BHV__ 
 `2022`
 
+__Effective Influencing__ (Effectief Beinvloeden) 
+`2022`
 
-<!--
-Ik zou ergens nog ruimte maken om te noemen dat je verder ook bv. bij koperen kat hebt gewerkt & commissiewerk hebt gedaan. 
-Daarmee onderscheid je je misschien wat van de gemiddelde autistische developer :) dat past misschien ook wel in je ## About me
-Plus: zet je relevante cursussen ergens neer. Iig BHV en die coaching/tech lead cursus die je gedaan hebt.
-En dat je goede beheersing hebt van zowel Nederlandse als Engelse taal. 
--->
+### Bar Staff
+*Koperen Kat* · Delft
+`2017 - 2019`
+
+Worked as general bar staff, recommending beers and doing tours around the small brewery explaining about the brewing process and the history of the brewer.
+
 <!-- ### Footer
 
 Last updated: May 2013 -->
