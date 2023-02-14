@@ -39,36 +39,28 @@ havo natuur & techniek
 
 ## Skills
 
-^*^ Good experience
-^+^ Some experience
-^-^ interested/little experience
-
-C#^*^ 
-.NET^*^
-Azure Cloud
-Blazor^+^
-Scrum
-Agile
+### Advanced
+C#
+.NET
 C
+
+### Intermediate
+Azure Cloud
 AKKA.NET
+Blazor
 REST
+Agile
+Scrum
+Python
+
+## Little
 TypeScript
 Angular
-Python
 
 ## Soft
 
 Team player, independent, flexible, eager to learn 
 
-
-### Tech 
-
-Lijstje met professionele skills/ techstack waar ik mee heb gewerkt.
-
-<!--
-
-Vergeet niet je soft skills! bv. team player, independent, hard-working, flexible, eager to learn, whatever etc
--->
 ## Experience
 
 ### Tech Lead
