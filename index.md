@@ -51,36 +51,22 @@ President, *Royal Society*, London, UK
 Associate, *French Academy of Science*, Paris, France
 
 
+## Experience
 
 
-### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`aug 2020 - Present`
+__Developer__, *Priva* - De Lier
 
-`1669`
-Lectiones opticæ.
+Together with a small team I'm working to make the data that we have in a greenhouse more available and insightfull through the Azure Cloud pllatform.
 
-etc. etc. etc.
+`march 2016 - aug 2020 `
+__Research and Development Engineer__, *Obervator Instruments* - Ridderkerk
 
-### Patents
+Together with a team we created meteorological products targeting the industrial/offshore market. My last project was a .NET Core backend application with a Angular frontend to monitor weather for helideck platforms.
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+``
+____
 
 <!-- ### Footer
 
