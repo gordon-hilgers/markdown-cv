@@ -40,22 +40,13 @@ havo natuur & techniek
 ## Skills
 
 ### Advanced
-C#
-.NET
-C
+C# | .NET | C | 
 
 ### Intermediate
-Azure Cloud
-AKKA.NET
-Blazor
-REST
-Agile
-Scrum
-Python
+Azure Pipeline · Azure Cloud · AKKA.NET · Blazor · REST · Agile · Scrum · Python
 
 ## Little
-TypeScript
-Angular
+TypeScript · Angular
 
 ## Soft
 
