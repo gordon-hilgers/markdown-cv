@@ -3,19 +3,19 @@ layout: cv
 title: Gordon Hilgers's CV
 ---
 # Gordon Hilgers
-Physicist, Mathematician, Cambridge professor.
+Developer, Hobby chef, Motorbiker.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="isaac@applesdofall.org">gordonhilgers93@hotmail.com</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Techlead and developer at Priva working on making data more available and insightfull through a web API. 
 
-### Specialized in
+### About me
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
