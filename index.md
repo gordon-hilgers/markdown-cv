@@ -58,7 +58,7 @@ Together with a team we created meteorological products targeting the industrial
 
 `sept 2015 - jan 2016`
 ### __Graduate Internship Research & Development Graduate__ · *Obserator Instruments* - Ridderkerk
-To complete my Bachelor's degree in Electrical Engineering I developed a test system to functionaly test the MeteoLink product range of Observator. The test system constisted of a custom PCB and a Windows application, created with Qt, to control it.
+To complete my Bachelor's degree in Electrical Engineering I developed a test system to functionaly test the MeteoLink product range of Observator. The test system constisted of a custom PCB a Embedded C application and a Windows application, created with Qt, to control it.
 <!-- ### Footer
 
 Last updated: May 2013 -->
