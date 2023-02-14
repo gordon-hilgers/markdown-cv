@@ -43,10 +43,10 @@ havo natuur & techniek
 C# | .NET | C | 
 
 ### Intermediate
-Azure Pipeline `·` Azure Cloud `·` AKKA.NET · Blazor · REST · Agile · Scrum · Python
+Azure Pipeline `·` Azure Cloud `·` 
 
-### Little
-TypeScript · Angular
+### Basic
+AKKA.NET · Blazor · REST · Agile · Scrum · Python · TypeScript · Angular
 
 ## Soft
 
@@ -79,7 +79,9 @@ Together with a small team we created meteorological products targeting the indu
 To complete my Bachelor's degree in Electrical Engineering I developed a test system to functionally test the MeteoLink product range of Observator. The test system consisted of a custom PCB a Embedded C application and a Windows application, created with Qt, to control it.
 
 
-## Other Experiences
+## Courses
+*BHV* 
+`2022`
 
 
 <!--
