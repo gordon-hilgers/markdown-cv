@@ -53,9 +53,9 @@ Associate, *French Academy of Science*, Paris, France
 
 ## Experience
 
-
-
+### Header level 3
 `aug 2020 - Present`
+
 __Developer__, *Priva* - De Lier
 
 Together with a small team I'm working to make the data that we have in a greenhouse more available and insightfull through the Azure Cloud pllatform.
@@ -65,7 +65,7 @@ __Research and Development Engineer__, *Obervator Instruments* - Ridderkerk
 
 Together with a team we created meteorological products targeting the industrial/offshore market. My last project was a .NET Core backend application with a Angular frontend to monitor weather for helideck platforms.
 
-``
+`sept 2015 - jan 2016`
 ____
 
 <!-- ### Footer
