@@ -26,22 +26,16 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 ## Education
 
 `1654-1660`
-__The King's School, Grantham.__
+__TODO.__
 
 `June 1661 - now`
 __Trinity College, Cambridge__
-
 - Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
 
 
 
 ## Skills
-
+TODO
 `2012`
 President, *Royal Society*, London, UK
 
@@ -63,8 +57,8 @@ __Research and Development Engineer__, *Obervator Instruments* - Ridderkerk
 Together with a team we created meteorological products targeting the industrial/offshore market. My last project was a .NET Core backend application with a Angular frontend to monitor weather for helideck platforms.
 
 `sept 2015 - jan 2016`
-____
-
+### __Graduate Internship Research & Development Graduate__ · *Obserator Instruments* - Ridderkerk
+To complete my Bachelor's degree in Electrical Engineering I developed a test system to functionaly test the MeteoLink product range of Observator. The test system constisted of a custom PCB and a Windows application, created with Qt, to control it.
 <!-- ### Footer
 
 Last updated: May 2013 -->
