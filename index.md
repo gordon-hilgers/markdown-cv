@@ -42,7 +42,7 @@ havo natuur & techniek
 C# · .NET · C  
 
 ### Intermediate
-Azure Pipeline `·` Azure Cloud `·` 
+Azure Pipeline · Azure Cloud · 
 
 ### Basic
 Akka.NET · Blazor · REST · Agile · Scrum · Python · TypeScript · Angular
