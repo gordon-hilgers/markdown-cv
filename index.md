@@ -90,10 +90,10 @@ Worked as general bar staff, recommending beers and doing tours around the small
 
 ### Courses
 
-__BHV__ 
+*BHV* 
 `2022`
 
-__Effective Influencing__ (Effectief Beinvloeden) 
+*Effective Influencing* (Effectief Beinvloeden) 
 `2022`
 
 <!-- ### Footer
