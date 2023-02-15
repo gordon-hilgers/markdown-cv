@@ -4,7 +4,7 @@ title: Gordon Hilgers's CV
 img: 1601286791799-modified.png
 ---
 # Gordon Hilgers
-Developer, Hobby chef, Motor biker.
+Developer, Hobby cook, Motor biker.
 
 Generaal Spoorlaan 487F016
 
