@@ -7,11 +7,13 @@ img: 1601286791799-modified.png
 Developer, Hobby chef, Motor biker.
 
 Generaal Spoorlaan 487F016
+
 2284DA, Rijswijk
+
 The Netherlands
 
 
-<a href="gordonhilgers93@hotmail.com">gordonhilgers93@hotmail.com</a>  :telephone_receiver:+31 6 50 41 76 89
+<a href="gordonhilgers93@hotmail.com">gordonhilgers93@hotmail.com</a>  +31 6 50 41 76 89
 
 
 ## Currently
